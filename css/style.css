@@ -142,7 +142,7 @@ div.carta {
     flex-direction: column;
     align-items: center;
     padding: 1rem;
-    margin-top: ;
+    margin-top: 2px;
   }
   menu p {
     line-height: 2rem;
@@ -152,7 +152,7 @@ div.carta {
     margin-bottom: 1rem;
   }
   section {
-    padding: 0 20px;
+    padding: 20 80px;
   }
   select {
     width: 100%;
